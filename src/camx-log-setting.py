@@ -2,7 +2,6 @@ from PySide2.QtWidgets import QApplication, QMessageBox
 from PySide2.QtUiTools import QUiLoader
 
 class CamX:
-
     def __init__(self):
         # 从文件中加载UI定义
 
